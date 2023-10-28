@@ -1,10 +1,13 @@
-# Upcoming Hackathons in Toronto
-Crowdsourced list of hackathons in Toronto and nearby cities sorted by date and by applications deadline.
+# Upcoming Hackathons in Toronto, The GTA, and Waterloo
+
+Hackathons that are happening in 2023 and 2024 in Toronto and the Greater Toronto Area (includes Waterloo too)
 
 To contribute:
  1. Fork repository
  2. Edit README.md
  3. Open a pull request!
+
+Thank you to [person]() for making the origonal version of this!
 
  
 
